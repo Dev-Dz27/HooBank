@@ -1,5 +1,5 @@
 ﻿# HooBank - Modern UI/UX website using React.js & Tailwind CSS
-![HooBank](https://i.ibb.co/7WMrNfr/hoobank.jpg)
+![HooBank Preview](https://i.ibb.co/7WMrNfr/hoobank.jpg)
 
 
 ### Features
